@@ -52,14 +52,6 @@ var meaning = AlchemyAPI({
 
 Check the list of [AlchemyAPI endpoints](http://www.alchemyapi.com/api).
 
-```js
-var meaning = AlchemyAPI({
-  key: process.env.API_KEY
-});
-```
-
-The library support standard NodeJS callback and Promise workflow as well.
-
 ## Examples
 
 See [example.js](https://github.com/Kikobeats/node-alchemy/blob/master/example.js)
