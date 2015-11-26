@@ -1,9 +1,7 @@
 # node-alchemy
 
 <p align="center">
-  <br>
   <img src="https://i.imgur.com/9pNHVux.jpg" alt="node-alchemy">
-  <br>
 </p>
 
 ![Last version](https://img.shields.io/github/tag/Kikobeats/node-alchemy.svg?style=flat-square)
