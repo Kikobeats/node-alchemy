@@ -2,7 +2,7 @@
   "name": "node-alchemy",
   "description": "Node/Browser Client to interact with AlchemyAPI.",
   "homepage": "https://github.com/Kikobeats/node-alchemy",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "main": "./dist/node-alchemy.js",
   "authors": [
     {
