@@ -1,0 +1,32 @@
+{
+  "name": "node-alchemy",
+  "description": "Node/Browser Client to interact with AlchemyAPI.",
+  "homepage": "https://github.com/Kikobeats/node-alchemy",
+  "version": "0.0.0",
+  "main": "./dist/node-alchemy.js",
+  "authors": [
+    {
+      "name": "Kiko Beats",
+      "email": "josefrancisco.verdu@gmail.com",
+      "homepage": "https://github.com/Kikobeats"
+    }
+  ],
+  "repository": "Kikobeats/node-alchemy",
+  "bugs": {
+    "url": "https://github.com/Kikobeats/node-alchemy/issues"
+  },
+  "keywords": [
+    "alchemyAPI",
+    "client",
+    "node-alchemy",
+    "wrapper"
+  ],
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "node_modules",
+    "test",
+    "tests"
+  ],
+  "license": "MIT"
+}

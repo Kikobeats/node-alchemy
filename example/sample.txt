@@ -1,0 +1,5 @@
+My vision of the software changed drastically when I started using a control version. First a bit of svn, and later git. The fact that you can create a checkpoints of your code is simply glorious. More later, when I started to feel more comfortable with git I started using git tags in combination with semver versioning.
+
+In these days, is very common use NodeJS package for whatever thing. JS is a tiny language with an archaic API, so you need packages all the time. And nothing bad about that, it's allow you have options.
+
+When I write a package, I try to be very clear with the propose saying why I wrote the package and add all elements that the package need for be used: write a little documentation, license, use a semver versioning politic, provide a browser version, travis integration,... Now I do it quasi-automatically, but I had to learn how to do it.
