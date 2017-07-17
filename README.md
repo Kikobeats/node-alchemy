@@ -1,5 +1,7 @@
 # node-alchemy
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Kikobeats/node-alchemy.svg)](https://greenkeeper.io/)
+
 <p align="center">
   <img src="https://i.imgur.com/9pNHVux.jpg" alt="node-alchemy">
 </p>
